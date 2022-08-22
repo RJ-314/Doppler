@@ -1,0 +1,36 @@
+{
+    "f_center": 11400,
+    "bandwidth": 500,
+    "files" : [
+      {
+        "path" : "./datasets/sathvik/15cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [30,35]
+        ]
+      },
+      {
+        "path" : "./datasets/sathvik/30cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [30,40]
+        ]
+      },
+      {
+        "path" : "./datasets/sathvik/45cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [25,35]
+        ]
+      },
+      {
+        "path" : "./datasets/sathvik/60cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [75,80]
+        ]
+      }
+      
+    ]
+  }
+  

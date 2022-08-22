@@ -1,0 +1,13 @@
+{
+    "f_center": 14064,
+    "bandwidth": 1000,
+    "files" : [
+      {
+        "path" : "./datasets/netravat/working.flac",
+        "is_mono" : true ,
+        "timestamps" : [
+          [45,55]
+        ]
+      }
+    ]
+  }

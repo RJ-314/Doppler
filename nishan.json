@@ -1,0 +1,42 @@
+{
+    "f_center": 8750,
+    "bandwidth": 500,
+    "files" : [
+      {
+        "path" : "./datasets/nishan/0cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [40,50]
+        ]
+      },
+      {
+        "path" : "./datasets/nishan/30cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [40,50]
+        ]
+      },
+      {
+        "path" : "./datasets/nishan/60cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [40,50]
+        ]
+      },
+      {
+        "path" : "./datasets/nishan/90cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [40,50]
+        ]
+      },
+      {
+        "path" : "./datasets/nishan/120cm.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [40,50]
+        ]
+      }
+    ]
+  }
+  

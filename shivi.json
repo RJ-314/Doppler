@@ -1,0 +1,49 @@
+{
+    "f_center": 12600,
+    "bandwidth": 500,
+    "files" : [
+      {
+        "path" : "./datasets/Shivi/Position_1_speed_2.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      },
+      {
+        "path" : "./datasets/Shivi/Position_1_speed_4.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      },
+      {
+        "path" : "./datasets/Shivi/Position_2_speed_2.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      },
+      {
+        "path" : "./datasets/Shivi/Position_2_speed_4.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      },
+      {
+        "path" : "./datasets/Shivi/Position_3_speed_2.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      },
+      {
+        "path" : "./datasets/Shivi/Position_3_speed_4.wav",
+        "is_mono" : false ,
+        "timestamps" : [
+          [4,9]
+        ]
+      }
+    ]
+  }
+  
